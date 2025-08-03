@@ -87,20 +87,27 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farid22022&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farid22022&theme=algolia" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid22022&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farid22022&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farid22022&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid22022&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farid22022&repo=Machine_Learning_From_Zero_to_Hero&theme=dracula" alt="Pinned Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farid22022&repo=AI_Resume_Analyzer&theme=dracula" alt="Pinned Repo" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farid22022&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+
 
 ---
 
 ## 📬 Connect With Me
 
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
-</p>
+
 
 ---
 
