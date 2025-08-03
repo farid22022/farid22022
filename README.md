@@ -99,8 +99,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=algolia" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=algolia" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farid22022&show_icons=true&theme=algolia" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farid22022&theme=algolia" alt="Streak" />
 </p>
 
 ---
