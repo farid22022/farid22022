@@ -65,18 +65,6 @@
 ### 🔒 Android Custom Lock Screen (HyperOS 2 style)
 > Dynamic clock, blurred background, music widget, gesture unlock – built with Kotlin & MotionLayout.
 
----
-
-## 👥 Collaborations & Internships
-
-| Role | Organization | Duration |
-|------|--------------|----------|
-| MERN Stack Intern | Code Soft | ✅ Completed |
-| Web Dev Intern | Brainwave Matrix Solutions | Aug 2024 – Oct 2024 |
-| Organizer & Developer | **KUCSE-Symposium 2024** | Cluster, CEO Talk, CP, Datathon, Innovation |
-| Developer | KU-Sports, SynergyX2024, Cluster-KU | 2024–2025 |
-
----
 
 ## 🧪 Currently Learning
 
@@ -99,8 +87,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farid22022&show_icons=true&theme=algolia" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farid22022&theme=algolia" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farid22022&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farid22022&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid22022&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
 ---
@@ -115,7 +104,7 @@
 
 ---
 
-> _"Learning by doing — I don't just build projects, I solve real problems."_  
+> _"Learning by doing "_  
 > — Md. Farid Hossen Rehad
 
 <p align="center">
