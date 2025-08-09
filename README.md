@@ -62,8 +62,7 @@
 ### 🎨 ClipDrop-Based Image Editor
 > Generate, upscale, crop, remove BG, and extract text using ClipDrop.ai API.
 
-### 🔒 Android Custom Lock Screen (HyperOS 2 style)
-> Dynamic clock, blurred background, music widget, gesture unlock – built with Kotlin & MotionLayout.
+
 
 
 ## 🧪 Currently Learning
